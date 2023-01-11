@@ -1,0 +1,5 @@
+amazon-braket-sdk
+quera-ahs-utils
+numpy
+matplotlib
+jupyter
