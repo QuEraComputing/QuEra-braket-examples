@@ -3,3 +3,4 @@ quera-ahs-utils
 numpy
 matplotlib
 jupyter
+tqdm
