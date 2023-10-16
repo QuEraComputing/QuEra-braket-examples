@@ -1,3 +1,7 @@
+#  :warning: Bloqade SDK release!  :warning:
+
+Thank you for your interest in Aquila and AHS through braket! If you have found these examples useful we know you will love our new [Python SDK for Bloqade](https://github.com/QuEraComputing/bloqade-python). 
+
 # QuEra-braket-examples
 Public repository for examples created by QuEra. 
 
