@@ -1,0 +1,3 @@
+bloqade
+scikit-optimize
+numpy
